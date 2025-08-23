@@ -131,15 +131,15 @@ Error generating stack: `+r.message+`
                           rounded-2xl overflow-hidden \r
                           text-center flex items-center justify-center \r
                           text-xl md:text-3xl font-black \r
-                          bg-[#95C11E] shadow-xl cursor-pointer transition-all duration-500`,children:[M.jsx("div",{className:`absolute inset-0 bg-[url('home-lessons.jpg')] bg-cover bg-center \r
+                          bg-[#95C11E] shadow-xl cursor-pointer transition-all duration-500`,children:[M.jsx("div",{className:`absolute inset-0 bg-[url('/fitness/home-lessons.jpg')] bg-cover bg-center \r
                             opacity-0 group-hover:opacity-100 transition-opacity duration-500`}),M.jsx("span",{className:"relative z-10 text-black group-hover:text-white transition-colors duration-500",children:"TOPTRACER RANGE"})]}),M.jsxs("div",{className:`group relative w-full md:w-[30%] h-[100px] md:h-[130px] \r
                           rounded-2xl overflow-hidden \r
                           text-center flex items-center justify-center \r
                           text-xl md:text-3xl font-black \r
-                          bg-[#95C11E] shadow-xl cursor-pointer transition-all duration-500`,children:[M.jsx("div",{className:`absolute inset-0 bg-[url('home-lessons.jpg')] bg-cover bg-center \r
+                          bg-[#95C11E] shadow-xl cursor-pointer transition-all duration-500`,children:[M.jsx("div",{className:`absolute inset-0 bg-[url('/fitness/home-lessons.jpg')] bg-cover bg-center \r
                             opacity-0 group-hover:opacity-100 transition-opacity duration-500`}),M.jsx("span",{className:"relative z-10 text-black group-hover:text-white transition-colors duration-500",children:"GOLF LESSONS"})]}),M.jsxs("div",{className:`group relative w-full md:w-[30%] h-[100px] md:h-[130px] \r
                           rounded-2xl overflow-hidden \r
                           text-center flex items-center justify-center \r
                           text-xl md:text-3xl font-black \r
-                          bg-[#95C11E] shadow-xl cursor-pointer transition-all duration-500`,children:[M.jsx("div",{className:`absolute inset-0 bg-[url('home-lessons.jpg')] bg-cover bg-center \r
+                          bg-[#95C11E] shadow-xl cursor-pointer transition-all duration-500`,children:[M.jsx("div",{className:`absolute inset-0 bg-[url('/fitness/home-lessons.jpg')] bg-cover bg-center \r
                             opacity-0 group-hover:opacity-100 transition-opacity duration-500`}),M.jsx("span",{className:"relative z-10 text-black group-hover:text-white transition-colors duration-500",children:"ADVENTURE GOLF"})]})]})]})})}function FR(){const i=Cf(0),e=Cf(0),s=vx(i,{damping:25,stiffness:300}),a=vx(e,{damping:25,stiffness:300});return it.useEffect(()=>{const l=u=>{i.set(u.clientX-10),e.set(u.clientY-10)};return window.addEventListener("mousemove",l),()=>window.removeEventListener("mousemove",l)},[]),M.jsxs(M.Fragment,{children:[M.jsx(ZR,{}),M.jsx(jR,{}),M.jsx(Mw,{}),M.jsx(Cw,{}),M.jsx(Dw,{}),M.jsx(LR,{}),M.jsx(KR,{}),M.jsx(QR,{}),M.jsx(Ow,{}),M.jsx(Of.div,{className:"fixed top-0 left-0 h-[300px] w-[300px] bg-[#95C11E]/35 blur-2xl rounded-full pointer-events-none z-[9999]",style:{x:s,y:a,translateX:"-50%",translateY:"-50%"}}),M.jsx(Of.div,{className:"fixed top-0 left-0 h-[20px] w-[20px] bg-[#95C11E] rounded-full pointer-events-none z-[9999]",style:{x:i,y:e,translateX:"-50%",translateY:"-50%"}})]})}XE.createRoot(document.getElementById("root")).render(M.jsx(it.StrictMode,{children:M.jsx(FR,{})}));
